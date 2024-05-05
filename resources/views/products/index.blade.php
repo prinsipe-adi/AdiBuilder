@@ -4,8 +4,8 @@
 
 @section('contents')
 <div>
-    <h1 class="font-bold text-2xl ml-3">Home Product List</h1>
-    <a href="{{ route('admin/products/create') }}" class="text-white float-right bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Add Product</a>
+    <h1 class="font-bold text-2xl ml-3">Project List</h1>
+    <a href="{{ route('admin/products/create') }}" class="text-white float-right bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Add Project</a>
     <hr />
 
 
@@ -19,7 +19,7 @@
         <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
             <tr>
                 <th scope="col" class="px-6 py-3">#</th>
-                <th scope="col" class="px-6 py-3">googleDriveImage</th>
+                <th scope="col" class="px-6 py-3">Image link</th>
                 <th scope="col" class="px-6 py-3">title</th>
                 <th scope="col" class="px-6 py-3">description</th>
                 <th scope="col" class="px-6 py-3">Action</th>

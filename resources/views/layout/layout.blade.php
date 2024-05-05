@@ -56,9 +56,7 @@
                 <p>
                     <a class="text-white" href="#portfolio">Portfolio</a>
                 </p>
-                <p>
-                    <a class="text-white" href="#team">Team</a>
-                </p>
+
             </div>
 
             <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
